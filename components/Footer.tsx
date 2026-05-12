@@ -49,12 +49,8 @@ export function Footer() {
         </div>
       </div>
 
-      {/* 쿠팡 파트너스 법적 고지 (필수) */}
       <div className="border-t border-gray-200 bg-white px-4 py-4 text-center text-xs text-gray-400">
-        <p>
-          이 사이트의 일부 포스팅과 추천 상품은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-        </p>
-        <p className="mt-1">© {year} {siteConfig.name}. All rights reserved.</p>
+        <p>© {year} {siteConfig.name}. All rights reserved.</p>
       </div>
     </footer>
   );

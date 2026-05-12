@@ -9,4 +9,5 @@ build/
 *.log
 .vercel
 .vercel-token
+.github-token
 next-env.d.ts
