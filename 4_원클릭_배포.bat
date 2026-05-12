@@ -23,7 +23,10 @@ echo.
 
 echo [2/2] Deploying to production...
 echo.
-call npx vercel deploy . --token=vcp_0YTgQnsE1lgQGt7pQ5CatLVdybnv0W8NPS4z5Qk8LdEnR5aYxV0BI4VV --prod --yes
+REM GitHub 연동으로 자동 배포됩니다. git push만 하면 됩니다.
+echo 이제 GitHub 연동으로 자동 배포됩니다.
+echo git add -A ^&^& git commit -m "update" ^&^& git push
+echo 위 명령어를 PowerShell에서 실행하세요.
 echo.
 
 if %errorlevel% neq 0 (
