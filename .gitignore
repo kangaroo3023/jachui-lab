@@ -10,4 +10,5 @@ build/
 .vercel
 .vercel-token
 .github-token
+auto-push.bat
 next-env.d.ts
