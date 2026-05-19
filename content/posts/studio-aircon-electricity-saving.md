@@ -44,7 +44,7 @@ author: "자취연구소"
 
 인버터 에어컨은 도달 온도 이후 소비전력이 크게 떨어져요. 정속형은 꺼졌다 켜졌다를 반복하기 때문에 평균 소비가 더 높습니다.
 
-![원룸 벽걸이 에어컨](https://images.unsplash.com/photo-1631545806609-26e144f59823?w=800&auto=format&fit=crop&q=80)
+![원룸 벽걸이 에어컨](https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=80)
 
 ## 설정 온도에 따른 전기요금 변화
 

@@ -35,7 +35,7 @@ author: "자취연구소"
 
 이 글에서는 **20대 후반~30대 초반, 월세 50만원 원룸** 기준으로 항목별 실제 비용을 정리했어요. 주변 지인 8명의 최근 2년간 가계부를 평균 낸 숫자라서 뇌피셜이 아닌 실제 데이터입니다.
 
-![이사 준비 박스와 짐 정리](https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&auto=format&fit=crop&q=80)
+![이사 준비 박스와 짐 정리](https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80)
 
 ## 1. 부동산 관련 비용 (160~210만원)
 

@@ -11,7 +11,7 @@ keywords:
   - 전세계약 주의사항
   - 전세보증금
   - 전세사기 유형
-thumbnail: "https://images.unsplash.com/photo-1450101499163-c8848e968854?w=1200"
+thumbnail: "https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=1200"
 date: "2026-04-19"
 author: "자취연구소"
 ---

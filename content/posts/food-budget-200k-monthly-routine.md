@@ -12,7 +12,7 @@ keywords:
   - 자취 요리 루틴
   - 자취 장보기
   - 1인가구 장보기
-thumbnail: "https://images.unsplash.com/photo-1543339308-d595c4974584?w=1200"
+thumbnail: "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200"
 date: "2026-04-21"
 author: "자취연구소"
 ---
@@ -91,7 +91,7 @@ author: "자취연구소"
 
 이것만 있으면 뭐든 만들 수 있어요.
 
-![일주일 장보기 식재료를 소분하는 모습](https://images.unsplash.com/photo-1543339308-d595c4974584?w=800)
+![일주일 장보기 식재료를 소분하는 모습](https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&auto=format&fit=crop&q=80)
 
 ## 실제 일주일 식단표
 
