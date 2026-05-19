@@ -70,7 +70,7 @@ author: "자취연구소"
 
 저는 두 번째 자취방을 구할 때 이 부분을 미리 체크해서, 관리비 8만원이지만 인터넷·수도·기본 전기까지 포함된 곳을 골랐어요. 결과적으로 첫 자취방보다 실질 부담이 월 3만원 정도 줄었어요.
 
-![관리비 고지서를 꼼꼼히 확인하는 모습](https://images.unsplash.com/photo-1554224154-26032cdc0c39?w=800&auto=format&fit=crop&q=80)
+![관리비 고지서를 꼼꼼히 확인하는 모습](https://images.unsplash.com/photo-1554224154-22dec7ec8818?w=800&auto=format&fit=crop&q=80)
 
 ## 전기세 — 누진세가 발목을 잡는 진짜 이유
 
